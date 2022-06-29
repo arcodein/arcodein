@@ -1,0 +1,22 @@
+Version: 4.0
+  - Se adecua seccion Intro para resoluciones de celulares
+  - Se crea nuevo icono para la pestaña del navegador
+  - Se agrega nuevo color al logo
+
+Version: 3.0
+  - Se elimina boton "Learn More" en el seccion Nosotros
+  - Se elimina "Direccion" dentro de Contacto
+  - Se crea seccion Intro
+  
+Version: 2.0
+  - Implementacion de la version inicial
+  - Se eliminan las secciones: Clientes, Conteos, features, Testimonials, portfolio, team, pricing, FAQ
+  - Se adecuan las secciones: Contacto
+  - Se eliminan redes sociales, se deja LinkedIN
+  
+Version: 1.0
+  - Implementacion de la version inicial
+  - Se agrega archivo changelog
+
+Version: en contruccion
+  - Version en construccion
